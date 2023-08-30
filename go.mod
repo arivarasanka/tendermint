@@ -1,4 +1,4 @@
-module github.com/tendermint/tendermint
+module github.com/arivarasanka/tendermint
 
 go 1.18
 
